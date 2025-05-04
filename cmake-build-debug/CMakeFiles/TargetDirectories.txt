@@ -1,0 +1,3 @@
+/Users/zhenghanli/Desktop/文件/McMaster File/2dx_codes/2dx_2.1/cmake-build-debug/CMakeFiles/2dx_2_1.dir
+/Users/zhenghanli/Desktop/文件/McMaster File/2dx_codes/2dx_2.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhenghanli/Desktop/文件/McMaster File/2dx_codes/2dx_2.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
